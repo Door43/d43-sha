@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sha:home|Door43 (sha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sha|d43-sha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sha/archive/master.zip|d43-sha.zip]]
+
+**Recent Changes**
+{{changes>ns = sha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sha|Ethnologue data]]
+
